@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-image{
+    background-image: url("https://img.freepik.com/free-vector/hindu-diwali-puja-background-with-image-text-space-lamp_1017-39971.jpg?t=st=1722605562~exp=1722609162~hmac=1a5ec56851d22863dbd10c78b38fa9df4f31e6d5576d9523492aaf8eacc0f6ef&w=900");
+    background-size: cover;
+    height: 40vh;
+}
+.text-heading{
+    color:white;
+    font-family: "Roboto";
+    text-align: end;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 50px;
+}
+.text-paragraph{
+    font-weight: normal;
+    font-size: 20px;
+    font-family: "caveat";
+}
+.bottom-section{
+    background-color: aqua;
+    padding: 10px;
+}
+.card-box-container{
+    background-color: white;
+    border-radius: 9px;
+    width: 150px;
+    text-align: center;
+    margin:10px
+}
+.card-image-container{
+    height: 120px;
+    width: 100px;
+    padding: 5px;
+}
+.card-text-container{
+    font-family: "Roboto";
+    font-weight: normal;
+    font-size: 16px;
+}
+.card-money-box{
+    font-family: "Roboto";
+    font-size:18px;
+    font-weight: bold;
+}
